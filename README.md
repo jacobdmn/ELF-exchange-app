@@ -6,4 +6,4 @@
 
 ### [Live Link](https://dashboard.elf.exchange)
 
-#### we're currently still working on the project
+#### we're currently still working on the project (Private repo)
